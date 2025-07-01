@@ -1,3 +1,5 @@
+// display.cpp - actually 'C' - this uses GLUT - to be replaced by display-pure.cpp  (OpenGL and XLib)
+
 #include <GL/freeglut.h> // Or <GL/glut.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
