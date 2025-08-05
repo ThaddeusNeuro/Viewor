@@ -1,6 +1,6 @@
 Viewor
-TopLevel Directory Structur
+TopLevel Directory Structure   
 Android/ viewer (to start) 
-Wayland/ using OpenGL (dirct)
-XMotif/  using OpenGL in an XWindow viwere
+Wayland/ using OpenGL (direct)
+XMotif/  using OpenGL in an XWindow viwer
 Direct/  write directly to framebuffer
